@@ -1,0 +1,6 @@
+project: slice-deque
+target: construct
+duration: 90
+
+cmds:
+    - cmd: /construct_queue
