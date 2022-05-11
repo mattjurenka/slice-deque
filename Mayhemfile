@@ -1,4 +1,4 @@
-project: slice_deque
+project: slice-deque
 target: construct
 duration: 90
 
